@@ -1,8 +1,8 @@
 class Crul < Formula
   homepage "https://github.com/porras/crul"
-  url "https://github.com/porras/crul/releases/download/v0.3.0/crul-0.3.0-darwin-x86_64.zip"
-  version "0.3.0"
-  sha256 "4b2af2d5192c97169702704fd34d1a89729d85fb4c132d85374fdf2f0f5efa96"
+  url "https://github.com/porras/crul/releases/download/v0.3.1/crul-0.3.1-darwin-x86_64.zip"
+  version "0.3.1"
+  sha256 "7b08d37c1eff84b648f57468f86262ee0980e235da27b7c64a49d14b0639c935"
 
   def install
     bin.install("crul")
